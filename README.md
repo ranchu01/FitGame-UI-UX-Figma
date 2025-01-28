@@ -4,6 +4,8 @@ FitGame.
 
 Brief description: "FitGAME combines fitness with fun, turning your workout routine into an interactive game. Track your progress, level up, and earn rewards as you smash your fitness goals. Whether you’re a fitness enthusiast or just starting out, FitGAME makes every workout an adventure!"
 
+You can view the FitGAME design in Figma by clicking [here](https://www.figma.com/design/zVNI6o6V8TDMcVeUtGouTF/FitGAME?node-id=0-1&t=lLCRBXpE2kun8lUG-1).
+
 
 DESCRIPTION: 
 "FitGAME is a mobile application that combines fitness, gaming, and nutrition to create a holistic wellness experience. Users can set fitness goals, engage in fun challenges, and track their progress through game mechanics. The app also offers personalized diet recommendations, helping users fuel their bodies with healthy food choices tailored to their fitness needs. With FitGAME, achieving fitness goals becomes an exciting and rewarding journey that balances workouts, challenges, and nutrition."
